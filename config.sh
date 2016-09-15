@@ -1,0 +1,9 @@
+#!/bin/sh
+ARCHIVE_SERVER="192.168.100.168"
+ARCHIVE_USER="archives.company.com"
+ARCHIVE_FOLDER="files/database-backups"
+ARCHIVE_HTML_FOLDER="files/website-backups"
+vm_dev01="192.168.102.170"
+www02='192.168.101.169'
+db01='192.168.100.168'
+EMAILDEV='ibaradji@company.re'
